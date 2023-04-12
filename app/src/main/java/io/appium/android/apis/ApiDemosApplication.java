@@ -13,11 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
 package io.appium.android.apis;
 
 import android.app.Application;
-
 /**
  * This is an example of a {@link android.app.Application} class.  This can
  * be used as a central repository for per-process information about your app;

@@ -15,7 +15,6 @@ public final class Shakespeare {
             "Othello",
             "King Lear"
     };
-    
     /**
      * Our data, part 2.
      */
